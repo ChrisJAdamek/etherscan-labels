@@ -1,0 +1,3454 @@
+{
+{
+        "Address": "0x0000000000000000000000000000000000000000",
+        "name": "mint/burn"
+    },
+    {
+        "Address": "0x0000000000085d4780b73119b644ae5ecd22b376",
+        "name": "TUSD"
+    },
+    {
+        "Address": "0x0000006daea1723962647b7e189d311d757fb793",
+        "name": "Wintermute"
+    },
+    {
+        "Address": "0x00662595f4d9f4cf150ac29d39212be496f8d133",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x006767ebde76c9224e9b4ee1ac9f28052a877818",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x00ff66ab8699aafa050ee5ef5041d1503aa0849a",
+        "name": "LUSDETH"
+    },
+    {
+        "Address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
+        "name": "alETH"
+    },
+    {
+        "Address": "0x01906449b7cfa954d672a43ff2c6f83d388c7cbc",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x019ba0325f1988213d448b3472fa1cf8d07618d7",
+        "name": "QiS: QUICK-WMATIC"
+    },
+    {
+        "Address": "0x01b020bacc4547dD11d6251bfE38bb8E1C266840",
+        "name": "GotchiCare"
+    },
+    {
+        "Address": "0x01c0eb1f8c6f1c1bf74ae028697ce7aa2a8b0e92",
+        "name": "variableDebtTUSD"
+    },
+    {
+        "Address": "0x01cbca310c9f65d8877bddf0a70f57e5de294fde",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x023a3ef9a628064352414f1ffb88e1b60138dcd4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x02677c45fa858b9ffec24fc791bf72cdf4a8a8df",
+        "name": "RicheSwap"
+    },
+    {
+        "Address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+        "name": "aDAI"
+    },
+    {
+        "Address": "0x02f28d4e7254749e9c44b0b82a28640780c33fe6",
+        "name": "\"DSproxy #187"
+    },
+    {
+        "Address": "0x0339bbf78947cea3d07da41493b8f0be541f78dc",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0364c8dbde082372e8d6a6137b45613dd0f8138a",
+        "name": "BEST"
+    },
+    {
+        "Address": "0x038f77ab71fc40949eea81aa65b471c6a3f1a02d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+        "name": "RAI"
+    },
+    {
+        "Address": "0x03b16ab6e23bdbeeab719d8e4c49d63674876253",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x03b298d27b0426758cb70c4add6523927bd7cc8e",
+        "name": "USDC yVault"
+    },
+    {
+        "Address": "0x0437465dfb5B79726e35F08559B0cBea55bb585C",
+        "name": "StartNet: L1 Escrow"
+    },
+    {
+        "Address": "0x04439ec4ba8b09acfae0e9b5d75a82cc63b19f09",
+        "name": "stkGHST-USDC"
+    },
+    {
+        "Address": "0x047bf3680e7c6930bb2cd974fb58bc7a254ab950",
+        "name": "SIMP"
+    },
+    {
+        "Address": "0x05addf2008ac6a698cd41e2176e72d9cbfd0a35d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0628ff854c191d4b80d2f07b3f1a39d878cd2e3a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0658c461e557ffd534b2b25f9d2b8a56ba4f0f6b",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x070c0147884d7cf984afbc2eb6f3428a39b5e229",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x07abe965500a49370d331ecd613c7ac47dd6e547",
+        "name": "dydx: Withdraw"
+    },
+    {
+        "Address": "0x07df97facb73a1d2da3e213e3676d42fa5fded25",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x08cdc32ab53d5f1f90d85e94a7d491e7b097461e",
+        "name": "Ervin"
+    },
+    {
+        "Address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+        "name": "INDEX"
+    },
+    {
+        "Address": "0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4",
+        "name": "QiS: GHST-USDC"
+    },
+    {
+        "Address": "0x09c81f941a7d2b611e84998e9643e18041143312",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x09e64c2b61a5f1690ee6fbed9baf5d6990f8dfd0",
+        "name": "GRO"
+    },
+    {
+        "Address": "0x0a097a28a9ecdef27380bed164eedca0561accfd",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0a9a893ed9e173b3298c8022e959ec6691673145",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0b3cef9f913f4f08bba1ed0fd5ba892c0fec5617",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+        "name": "BTC2x-FLI"
+    },
+    {
+        "Address": "0x0b91b07beb67333225a5ba0259d55aee10e3a578",
+        "name": "MNEP"
+    },
+    {
+        "Address": "0x0baba1ad5be3a5c0a66e7ac838a129bf948f1ea4",
+        "name": "Loopring"
+    },
+    {
+        "Address": "0x0bcdc503f78bff5dc7b867c6740226d9621117b1",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0c404f55595ab844d519a084ff1b8cb36aaad1d1",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0c50a8239e28459bad61f3bc88ec6a74dc681ce2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0c5a369be6d584d6b054494a22d71b61ef1fe9af",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0c7131aa808dbc1132515ce7b83fc3c84a603c91",
+        "name": "QiS: maYFI-maUSDC"
+    },
+    {
+        "Address": "0x0d15764e7f13e780ca0ae83a15a8d819db05ef2b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0d3abaa7e088c2c82f54b2f47613da438ea8c598",
+        "name": "LUSDETH"
+    },
+    {
+        "Address": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+        "name": "UniSwap V2: USDT-WETH"
+    },
+    {
+        "Address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "name": "WMATIC"
+    },
+    {
+        "Address": "0x0d975f46027a5cf694a54e6d98e1341db9b22eb7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0dc3988fd00672813a1fc07aabccc924551f62e6",
+        "name": "The SUPERPLASTIC: SUPERGUCCI Origin"
+    },
+    {
+        "Address": "0x0e05fc644943aae89dd3fec282c3f86431a7d090",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x0f1f17e4260515d9bfe805cff323374eb771eae6",
+        "name": "RGN"
+    },
+    {
+        "Address": "0x0ff0b01c6b3c278915ad1fd4e0a85f4cb504e612",
+        "name": "CitaDAO"
+    },
+    {
+        "Address": "0x106eebf11f34ecccad59c1ca9398d828765f64f8",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x10785c89dc132a796718455be7f994c36f82e7a4",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x111111111117dc0aa78b770fa6a738034120c302",
+        "name": "1INCH"
+    },
+    {
+        "Address": "0x1111111254fb6c44bac0bed2854e76f90643097d",
+        "name": "1inch v4: Router"
+    },
+    {
+        "Address": "0x11431a89893025d2a48dca4eddc396f8c8117187",
+        "name": "1inch: Router"
+    },
+    {
+        "Address": "0x11442e1ec5715f5824b8bd4a6b95533f07f521c5",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x11800baad2b72c6b41365909dc8b4f4f72fabd62",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x118b427af645e5e696e6da748bd66ac8e4f5e9a8",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x119fb50cebd04e6a04f71fd05c96291bfc8e5949",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x11b815efb8f581194ae79006d24e0d814b7697f6",
+        "name": "UniSwap V3: USDT-WETH"
+    },
+    {
+        "Address": "0x126c121f99e1e211df2e5f8de2d96fa36647c855",
+        "name": "DEGEN"
+    },
+    {
+        "Address": "0x129655376435C76E1D99bAf319aFE539bFfabAE5",
+        "name": "\"DSProxy #213"
+    },
+    {
+        "Address": "0x12ef2cd4231d5cf655a6cdd4ac1524ffaa439c17",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1337c30c27fa619e66449bc95a69d2b1916124dd",
+        "name": "L3X"
+    },
+    {
+        "Address": "0x135511599d8d78e4e5d2ed7e224b54d80ff97309",
+        "name": "POAP"
+    },
+    {
+        "Address": "0x1360cd8d4f5e21c2059db018357aff58338bc717",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x1366c529a133d4153211410126f12aa4e31aaac5",
+        "name": "QiS: GHST-WMATIC"
+    },
+    {
+        "Address": "0x1412eca9dc7daef60451e3155bb8dbf9da349933",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+        "name": "DPI"
+    },
+    {
+        "Address": "0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da",
+        "name": "DENA"
+    },
+    {
+        "Address": "0x160532d2536175d65c03b97b0630a9802c274dad",
+        "name": "QiS: MAI-USDC"
+    },
+    {
+        "Address": "0x16205a6048b6af17f1ac1a009bbf2ed9289e6921",
+        "name": "stonerCatsSeller"
+    },
+    {
+        "Address": "0x16980c16811bde2b3358c1ce4341541a4c772ec9",
+        "name": "Uniswap V3: LUSD-ETH"
+    },
+    {
+        "Address": "0x17525e4f4af59fbc29551bc4ece6ab60ed49ce31",
+        "name": "YPIE"
+    },
+    {
+        "Address": "0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
+        "name": "CC10"
+    },
+    {
+        "Address": "0x17ac4cc32696987cea1737343188716b1d827e7b",
+        "name": "DYDX: Deposit-Withdraw"
+    },
+    {
+        "Address": "0x180f207f8747a966ec94277a69610162d7fa3ff1",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x183a776cdf4f34d8233458a37f1413807cf285c3",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x18932848b2f9b14b70972a1400133d1ed6342114",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x18bfff508960710fee296502de84667c7f4e88cf",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1948abc5400aa1d72223882958da3bec643fb4e5",
+        "name": "DinoSwap"
+    },
+    {
+        "Address": "0x19a935cbaaa4099072479d521962588d7857d717",
+        "name": "LitCoin"
+    },
+    {
+        "Address": "0x19f870bd94a34b3adaa9caa439d333da18d6812a",
+        "name": ""
+    },
+    {
+        "Address": "0x1a08b4d6497fa6d5970bd8f6c72bc5fbc8dd500e",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+        "name": "amUSDC"
+    },
+    {
+        "Address": "0x1a5b439228013ec78b950279eb397a6bae44591a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1a8d886d3a4a2d2aeb817ebb781f0683351538b1",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1b3ed7262093ade5f2bdb9711ce554b36a760fd2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1b97e684ab3e1089965c7e99ccb7139fc1f60651",
+        "name": "GotchiVault"
+    },
+    {
+        "Address": "0x1bd06b96dd42ada85fdd0795f3b4a79db914add5",
+        "name": "QiS: QUIICK-WETH"
+    },
+    {
+        "Address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "name": "WBTC"
+    },
+    {
+        "Address": "0x1c445fd1b9d55ce6919348e3d57d484e549a69d8",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1c4cd553e1a8816840cfb37ee228292176ec1b2f",
+        "name": "OKX:Deposit"
+    },
+    {
+        "Address": "0x1c81925f3c5f864b05f52b782331b207a1cca5f4",
+        "name": "OKX:Deposit"
+    },
+    {
+        "Address": "0x1cc384b6f900a947eb3bbfc47417afeee7599e24",
+        "name": "YUI"
+    },
+    {
+        "Address": "0x1cd0e5f3dc56df8f4120a41bcaab16fc3e2fd7ea",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11",
+        "name": "REALM"
+    },
+    {
+        "Address": "0x1d1b5f843d507770aa63d674f8aaaea09d38f718",
+        "name": "DinoExinctionPool"
+    },
+    {
+        "Address": "0x1d22397EdfC4edf622d692050635bfc1FEBf1404",
+        "name": "0x Exchange"
+    },
+    {
+        "Address": "0x1d4b0932b2200d920d16d51ccdb2fedeb6e2724f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1d86852b823775267ee60d98cbcda9e8d5c2faa7",
+        "name": "GMB Auction"
+    },
+    {
+        "Address": "0x1dbba57b3d9719c007900d21e8541e90bc6933ec",
+        "name": "QiS: QI-USDC"
+    },
+    {
+        "Address": "0x1e28c8f96307543a7dac46f437351863ba519ad1",
+        "name": "s-uBPRO-BIP4"
+    },
+    {
+        "Address": "0x1eac8f4401087a8ae31d9f095f30879969ac4748",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x1f0aa72b980d65518e88841ba1da075bd43fa933",
+        "name": "vGMVT"
+    },
+    {
+        "Address": "0x1f1e4c845183ef6d50e9609f16f6f9cae43bc9cb",
+        "name": "QiS: QUIICK-USDC"
+    },
+    {
+        "Address": "0x1fd1259fa8cdc60c6e8c86cfa592ca1b8403dfad",
+        "name": "Iron: Staking"
+    },
+    {
+        "Address": "0x1fe64677ab1397e20a1211afae2758570fea1b8c",
+        "name": "Stake4GLTR"
+    },
+    {
+        "Address": "0x208226200b45b82212b814f49efa643980a7bdd1",
+        "name": "SushiSwap: DATA-ETH"
+    },
+    {
+        "Address": "0x2127fe7ffce4380459cced92f2d4793f3af094a4",
+        "name": "ONI"
+    },
+    {
+        "Address": "0x220bda5c8994804ac96ebe4df184d25e5c2196d4",
+        "name": "1inch: Router"
+    },
+    {
+        "Address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "name": "WBTC"
+    },
+    {
+        "Address": "0x22c1f6050e56d2876009903609a2cc3fef83b415",
+        "name": "POAP"
+    },
+    {
+        "Address": "0x22f9dcf4647084d6c31b2765f6910cd85c178c18",
+        "name": "0xExchange"
+    },
+    {
+        "Address": "0x2318b79bfba8c3563ba286514153c89ebecb9634",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x23540a0e5814e70b5077cdba2066aab92117a599",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x23abad8c65a9a93abcc343892aaf3d6e88b5ccc9",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x23EfFbAD3A6d926846e964c9aB9580E5068857c4",
+        "name": "macuhtack.eth"
+    },
+    {
+        "Address": "0x24179cd81c9e782a4096035f7ec97fb8b783e007",
+        "name": "Liquity: Deposit"
+    },
+    {
+        "Address": "0x243cebb2fccae390639f2b454e4886dcfae7deee",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x247b984ffef0e6c2eb31ca6c51ebfaa40fc4e934",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x25b55135a02d8ff221fb442f03681d9bd023295d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x25d073a9f2cd3fbfe1a5fec8edfee1e80e9613cb",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x25d56e2416f20de1efb1f18fd06dd12efec3d3d0",
+        "name": "QiS: QI-QUICK"
+    },
+    {
+        "Address": "0x25de6ee9bb67dca9654259843682be875ab85b5f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x268b1b2291aec129de5236933b594d9e9abd98a5",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x26b350f462ae30ec1c48c36ba944ab66f06dafee",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x26cf02f892b04af4cf350539ce2c77fcf79ec172",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x26d39fc7341567c8b0bb96382fc54f367f4298ea",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2701ea55b8b4f0fe46c15a0f560e9cf0c430f833",
+        "name": "UNI-V2-6"
+    },
+    {
+        "Address": "0x277947d84a2ec370a636683799351acef97fec60",
+        "name": "GroVault: DAI"
+    },
+    {
+        "Address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+        "name": "USDC"
+    },
+    {
+        "Address": "0x279ca79d5fb2490721512c8ae4767e249d75f41b",
+        "name": "SushiSwap: LUSD-WETH"
+    },
+    {
+        "Address": "0x27DF5C6dcd360f372e23d5e63645eC0072D0C098",
+        "name": "GotchiRewardsPool"
+    },
+    {
+        "Address": "0x27f8d03b3a2196956ed754badc28d73be8830a6e",
+        "name": "amDAI"
+    },
+    {
+        "Address": "0x280431a4c797a949df87ad796f9b559f1f9bdc80",
+        "name": "camZapper"
+    },
+    {
+        "Address": "0x283af0b28c62c092c9727f1ee09c02ca627eb7f5",
+        "name": "ENS: Registrar"
+    },
+    {
+        "Address": "0x28424507fefb6f7f8e9d3860f56504e4e5f5f390",
+        "name": "amWETH"
+    },
+    {
+        "Address": "0x28529fec439cff6d7d1d5917e956dee62cd3be5c",
+        "name": "Hop: DAI"
+    },
+    {
+        "Address": "0x287b635a6b1007b39a5c8561be5a56899aaaa7c4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x28820065296837492f422595d21446aa3d3be1f2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x288d25592a995ca878b79762cb8ec5a95d2e888a",
+        "name": "UNI-V2-10"
+    },
+    {
+        "Address": "0x28b67e0a4e570720c111c090c45daa065a54e58d",
+        "name": "Uniswap V3: LQTY-WETH"
+    },
+    {
+        "Address": "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
+        "name": "OPENSTORE"
+    },
+    {
+        "Address": "0x29746c9d6b317c6df26ac1751d6cb03a55c1b8d5",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2994d42ff4547f5c88f97fe3c11e4c97f85a0283",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2a537fa9ffaea8c1a41d3c2b68a9cb791529366d",
+        "name": "crDPI"
+    },
+    {
+        "Address": "0x2ac2eb99a696cee368699eb4ad7217f8a706b905",
+        "name": "NFT"
+    },
+    {
+        "Address": "0x2af58fa0d880fbd628b4cf2fe319a9adbbabb417",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2afb58a22e7d3c241ab7b9a1f68b9e8e74ec9d68",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2bb25175d9b0f8965780209eb558cc3b56ca6d32",
+        "name": "Rewards"
+    },
+    {
+        "Address": "0x2c1a288353e136b9e4b467aadb307133fffeab25",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2c51eaa1bcc7b013c3f1d5985cdcb3c56dc3fbc1",
+        "name": "SushiSwap: BANK-WETH"
+    },
+    {
+        "Address": "0x2c6995631c7889addc1ab7b5bc56ec09d35b7c8f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2c6b5036f61047e0ab0e858f45767f14ad24f07a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2ceee24f8d03fc25648c68c8e6569aa0512f6ac3",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x2cf7252e74036d1da831d11089d326296e64a728",
+        "name": "QiS: USDT-USDC"
+    },
+    {
+        "Address": "0x2d7ba71dc3e391988bb7f356d07dacac92b03e5d",
+        "name": "UniSwap V3: BPRO-WETH"
+    },
+    {
+        "Address": "0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198",
+        "name": "BANK"
+    },
+    {
+        "Address": "0x2d967df4f2ed0edcf56ade9b7f67db7c984b1116",
+        "name": "\"DSProxy #194"
+    },
+    {
+        "Address": "0x2dc09125f9365d9228f0475872f35e7da32d3005",
+        "name": "FTX: Deposit"
+    },
+    {
+        "Address": "0x2de80d91696e7e508a6ee706de6f780b3e647346",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2e32bad45a1c29c1ea27cf4dd588df9e68ed376c",
+        "name": "GroVault: Staking"
+    },
+    {
+        "Address": "0x2e8b8153d7b9b54aa10a637dad54f7f94db10d3f",
+        "name": "GLB"
+    },
+    {
+        "Address": "0x2EC255797FEF7669fA243509b7a599121148FFba",
+        "name": "1inch V3: Router"
+    },
+    {
+        "Address": "0x2eea2d478787dfcaa4aa5398622556b9d775f194",
+        "name": "QiS: maUSDT-maUSDC"
+    },
+    {
+        "Address": "0x2f0b23f53734252bda2277357e97e1517d6b042a",
+        "name": "Maker-ETH-A"
+    },
+    {
+        "Address": "0x2f3045ce8f70757e5cbad58215134aedaf2e4ca4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2f5947a91da9dfcf6cc2e5a2a60ae087a540c3d2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x2faf487a4414fe77e2327f0bf4ae2a264a776ad2",
+        "name": "FTX: Withdraw"
+    },
+    {
+        "Address": "0x300a7b65097f6a933e5c988cfa040777a5533549",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x305eb24f848e3f02f13602ae93ddbb73ac7e1958",
+        "name": "QiS: DINO-USDC"
+    },
+    {
+        "Address": "0x31503dcb60119a812fee820bb7042752019f2355",
+        "name": "SushiSwap: COMP-WETH"
+    },
+    {
+        "Address": "0x3238934316238ebbda1ffb229ec9a37bf66c5564",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x329c54289ff5d6b7b7dae13592c6b1eda1543ed4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3324af8417844e70b81555a6d1568d78f4d4bf1f",
+        "name": "SLP: DINO-USDC"
+    },
+    {
+        "Address": "0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1",
+        "name": "DATA"
+    },
+    {
+        "Address": "0x34278f6f40079eae344cbac61a764bcf85afc949",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x3452a7f30a712e415a0674c0341d44ee9d9786f9",
+        "name": "Uniswap V2: INDEX-WETH"
+    },
+    {
+        "Address": "0x34832d9ac4127a232c1919d840f7aae0fcb7315b",
+        "name": "DFYNLP: ICE-USDC"
+    },
+    {
+        "Address": "0x34965ba0ac2451a34a0471f04cca3f990b8dea27",
+        "name": "SLP: USDC-WETH"
+    },
+    {
+        "Address": "0x34b121b6358e595946db584051c94aff4ccc6926",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3509f19581afedeff07c53592bc0ca84e4855475",
+        "name": "xDollar: Staking"
+    },
+    {
+        "Address": "0x352ac32c9663fb7caac363f77b121c34d9acb420",
+        "name": "Gotchi: Sell"
+    },
+    {
+        "Address": "0x3541a5c1b04adaba0b83f161747815cd7b1516bc",
+        "name": "KNIGHT"
+    },
+    {
+        "Address": "0x35ed13ebee1e09f64c60f3328d038ed6ddb78582",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x35edac24f1656265b9e30e546617564b7a9d97fd",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x36376646e7e1bf27729c70a549e99b21a1e39fcd",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x36613eab0ed4c9d0f5abf7f8cfea819f84b9610c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3666f603cc164936c1b87e207f36beba4ac5f18a",
+        "name": "HopProtocol USDC Bridge"
+    },
+    {
+        "Address": "0x36b08dba9335dd28c444b63ebff12fcf014007fe",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x36fe914c22a25c71044a427a44760b8ece2f98d6",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x36ff3e262ee3ea1c3a21b75f080f8d25260f3f8a",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x37427bf54526ad1a706a8cb43ab31a0c8270d693",
+        "name": "POLYLOOT"
+    },
+    {
+        "Address": "0x375ea781c49eafedde07afe6196f885761f166ae",
+        "name": "CT"
+    },
+    {
+        "Address": "0x378cb52b00f9d0921cb46dfc099cff73b42419dc",
+        "name": "yvLUSD"
+    },
+    {
+        "Address": "0x37ea3c7717a668509986e656c9b3fd47090f83d6",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x3801c3b3b5c98f88a9c9005966aa96aa440b9afc",
+        "name": "GLTR"
+    },
+    {
+        "Address": "0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7",
+        "name": "GHST"
+    },
+    {
+        "Address": "0x387a79b14ddab98f703ed8ef48bf59b08dffe92a",
+        "name": "UniSwap V3: USDC-RPL"
+    },
+    {
+        "Address": "0x388e2a3d389f27504212030c2d42abf0a8188cd1",
+        "name": "QiS: GHST-WETH"
+    },
+    {
+        "Address": "0x38b49b879562046412a62c02a88dc867b9afd9c1",
+        "name": "smatos"
+    },
+    {
+        "Address": "0x38d3c27c62d122f13e03a1866345a1016635e066",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x39292e0157ef646cc9ea65dc48f8f91cae009eae",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
+        "name": "SushiSwap: USDC-WETH"
+    },
+    {
+        "Address": "0x39f90a849fdb412c03c762be37e96557848b162a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3a1d87f206d12415f5b0a33e786967680aab4f6d",
+        "name": "WLP: Router"
+    },
+    {
+        "Address": "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975",
+        "name": "xUSD"
+    },
+    {
+        "Address": "0x3a45e2f5ab0218d7c35aec963fca64de03934057",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3a56ab63c7ef4f07fe353beb132e0fd5ad270ca0",
+        "name": "AART"
+    },
+    {
+        "Address": "0x3aa370aacf4cb08c7e1e7aa8e8ff9418d73c7e0f",
+        "name": "CRO-Swap: USDC-WETH"
+    },
+    {
+        "Address": "0x3aa8440d4625f36a1c2cdd623bf269b820de2afb",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3adb04e127b9c0a5d36094125669d4603ac52a0c",
+        "name": "GVT"
+    },
+    {
+        "Address": "0x3b023ac281b01ec02f01f2bcf0579170a9e02d63",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x3b113354a2473ade2ce5a4ea413c78dee5bcd9ea",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x3b4396cf6d6b2850aed670ff1daea4a51e2dbee4",
+        "name": "FLP: Staking"
+    },
+    {
+        "Address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+        "name": "SOS"
+    },
+    {
+        "Address": "0x3bcc4eca0a40358558ca8d1bcd2d1dbde63eb468",
+        "name": "IDEX"
+    },
+    {
+        "Address": "0x3bf4bb8327dccde38e195691d70f79a793acc686",
+        "name": "QiS: VLT-DAI"
+    },
+    {
+        "Address": "0x3c0bd2118a5e61c41d2adeebcb8b7567fde1cbaf",
+        "name": "CKIE"
+    },
+    {
+        "Address": "0x3c6d73475d8a64cec5b5170853ab38ccf51eb130",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3cdee3cfe9ff085a70e64f1d45ccc948f71ffc7a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3d4cc8a61c7528fd86c55cfe061a78dcba48edd1",
+        "name": "HopProtocol DAI Bridge"
+    },
+    {
+        "Address": "0x3d5bc3c8d13dcb8bf317092d84783c2697ae9258",
+        "name": "Cream"
+    },
+    {
+        "Address": "0x3d60cd48c1452b79df4df494c828a292f02098e7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3dc7b06dd0b1f08ef9acbbd2564f8605b4868eea",
+        "name": "XDO"
+    },
+    {
+        "Address": "0x3e0a5fde01ab05186f7808b3ae0cfdbcf844d3ae",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3ece8d40dac89ffb408f7cb5eaf24ab6a3135028",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3f0f6e0e5a770803ba0c2b7e16e843696a2fc9c0",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x3f2c32b452c235218d6e1c3988e4b1f5f74afd4a",
+        "name": "GotchiVault DAO"
+    },
+    {
+        "Address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "name": "GHST"
+    },
+    {
+        "Address": "0x3f5867645e75c4d8c26e4fdea2c273ce6cdcff53",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x3feacf904b152b1880bde8bf04ac9eb636fee4d8",
+        "name": "Qi DAO: Treasury"
+    },
+    {
+        "Address": "0x401f6c983ea34274ec46f84d70b31c151321188b",
+        "name": "Polygon MATIC Bridge"
+    },
+    {
+        "Address": "0x403e967b044d4be25170310157cb1a4bf10bdd0f",
+        "name": "FUD"
+    },
+    {
+        "Address": "0x4083fe56ed8e2784cd720ec6851a01e7e931076b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x408674fc7fd6654b345b2331bde6336ab3ea10a3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf",
+        "name": "Polygon: Bridge"
+    },
+    {
+        "Address": "0x411a9b902f364817a0f9c4261ce28b5566a42875",
+        "name": "UNI-V2-3"
+    },
+    {
+        "Address": "0x41603879b16897f7ef0b87327e3fadf8e36641ae",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x4259abc22981480d81075b0e8c4bb0b142be8ef8",
+        "name": "FRUIT"
+    },
+    {
+        "Address": "0x429881672b9ae42b8eba0e26cd9c73711b891ca5",
+        "name": "PICKLE"
+    },
+    {
+        "Address": "0x429e5be3a8e154fa39c0eeff0aa8dd4932568148",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x42e5e06ef5b90fe15f853f59299fc96259209c5c",
+        "name": "KEK"
+    },
+    {
+        "Address": "0x42fd10ddc7628b82d80c3b2c286f3e79555fd7a1",
+        "name": "QiS: CC10:QUICK"
+    },
+    {
+        "Address": "0x431504a1ed5f7aee0633d1a69f9595cbdbab70e5",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x43661f4b1c67dd6c1e48c6faf2887b22aee3ddf5",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x437edeb54527a3b39bfd14d10365debb679c870a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x439a06e69f1302f3f94f265d32ca4511e882b5cd",
+        "name": "$PD"
+    },
+    {
+        "Address": "0x43b4fdfd4ff969587185cdb6f0bd875c5fc83f8c",
+        "name": "Curve-alUSD"
+    },
+    {
+        "Address": "0x43ff4c088df0a425d1a519d3030a1a3dfff05cfd",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8",
+        "name": "FOMO"
+    },
+    {
+        "Address": "0x44b8f74912b58f1303ad19db10ac6c07cb0639b1",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x44fa3d570f1838dcf079ac7d19b8f2d23e2b889f",
+        "name": "UNI-V2-2"
+    },
+    {
+        "Address": "0x451bd00499899b7c06a68b8aeb4a40df6b44950d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x45494a217390e6c66b0ab087b968558ae2875e73",
+        "name": "\"DSProxy #199"
+    },
+    {
+        "Address": "0x454f11d58e27858926d7a4ece8bfea2c33e97b13",
+        "name": "UniSwap V2: LDO-WETH"
+    },
+    {
+        "Address": "0x4572192ed1dee5fd0f8f07269be4ef3e3e270715",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x45a8d860e9e2171b867caf797886c8e4881476e2",
+        "name": "\"DSProxy #188"
+    },
+    {
+        "Address": "0x45f199b8af62ab2847f56d0d2866ea20da0c9bbc",
+        "name": "UniSwap V3: BANK-WETH"
+    },
+    {
+        "Address": "0x464893e1a23026de87fd487a25341553b0f9cf03",
+        "name": "QI: Rewards"
+    },
+    {
+        "Address": "0x4678cb6580b20bd4340fb5269e91af3e921180d8",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x46af8ac1b82f73db6aacc1645d40c56191ab787b",
+        "name": "UniSwap V3: NDX-WETH"
+    },
+    {
+        "Address": "0x47ab904f34fbe517e8032de5e86ce8708369a72d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x47b0ec1bea7d8ecc7cf70c3bf82c5f5d15a96b6d",
+        "name": "SLP: Zap In"
+    },
+    {
+        "Address": "0x47e312d99c09ce61a866c83cbbbbed5a4b9d33e7",
+        "name": "Artblocks"
+    },
+    {
+        "Address": "0x47ea0ab486f9d00f16d9f248e3388586e061f7f8",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x481a2be12532d5cd1295239557168d01c5d09708",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x48f15853db6ef77aed4963837e6e2304963acf1b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x49156f92e871e8c4d0b812646bb7e2d61033d278",
+        "name": "ORBSBT"
+    },
+    {
+        "Address": "0x49922578d69d5bfdf9d6a47e3e21c525f1c99492",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x49c358afee381d32582700cbdd7e9746dc341973",
+        "name": "TBTF20"
+    },
+    {
+        "Address": "0x4a32007040567190bed4fa6ff3f5a03c0d47c9d7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x4a35582a710e1f4b2030a3f826da20bfb6703c09",
+        "name": "QiS: DAI-WETH"
+    },
+    {
+        "Address": "0x4a81f8796e0c6ad4877a51c86693b0de8093f2ef",
+        "name": "ICE"
+    },
+    {
+        "Address": "0x4b16a470ecabfbb565f77b0730bee4fb6d02f9f6",
+        "name": "DARTO"
+    },
+    {
+        "Address": "0x4c0ae29009867ff7240b730c85eef24be0d8f97d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x4c4bf319237d98a30a929a96112effa8da3510eb",
+        "name": "WEXpoly"
+    },
+    {
+        "Address": "0x4c9929111d9e9f8c399c07d7553a1c96b9830418",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x4d35f0959a19d97daa4be287c379194818299225",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x4d5ef58aac27d99935e5b6b4a6778ff292059991",
+        "name": "UniSwap V3: DPI-WETH"
+    },
+    {
+        "Address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
+        "name": "stkAAVE"
+    },
+    {
+        "Address": "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f",
+        "name": "Arbitrum: Bridge"
+    },
+    {
+        "Address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+        "name": "cETH"
+    },
+    {
+        "Address": "0x4e0924d3a751be199c426d52fb1f2337fa96f736",
+        "name": "Uniswap V3: LUSD-USDC"
+    },
+    {
+        "Address": "0x4e0b2a80e158f8d28a2007866ab80b7f63be6076",
+        "name": "OWLT"
+    },
+    {
+        "Address": "0x4e4d80ee0bb7e3583918b165a57a013f0591de1a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x4e7bf3694962fc482a16d60fd78f99db9c4c52b0",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x4e9c6305afed36279c50af04e75a1d3a20b8e09e",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x4f9fbb3f1e99b56e0fe2892e623ed36a76fc605d",
+        "name": "Liquity:Staking"
+    },
+    {
+        "Address": "0x4fef06e96767a0e29786d2b929230b92a7a4917c",
+        "name": "PNFT"
+    },
+    {
+        "Address": "0x4ffe73cf2eef5e8c8e0e10160bce440a029166d2",
+        "name": "pLUSD3CRV-f"
+    },
+    {
+        "Address": "0x5036a4d97d6c9794b79b973183b028bc6ad884c4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5039e2936ec2a588cad92e4edcf41a1d3a443186",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5041ed759Dd4aFc3a72b8192C143F72f4724081A",
+        "name": "OKX-7"
+    },
+    {
+        "Address": "0x51195e21bdae8722b29919db56d95ef51faeca6c",
+        "name": "vGHST"
+    },
+    {
+        "Address": "0x5173b8ea30cbcffa8e049b762f2d1a92c21b02c9",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x51cc2818f31a9037040da5f5f623b8aec24682a9",
+        "name": ""
+    },
+    {
+        "Address": "0x5208d1c67b97f12b5e99b56218e70f5d2f5a871a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x52d1c6f4db354c8f2f3c87b8f90081115356c597",
+        "name": "Sushiswap: Zap Out"
+    },
+    {
+        "Address": "0x52e7b0c6fb33d3d404b07006b006c8a8d6049c55",
+        "name": "Dino: Staking"
+    },
+    {
+        "Address": "0x52f3b30922d252151d72746dd325390a4e3fa1fb",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x52fcda4f61108b4e918baba6b671e61c774eaead",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5317ef9170f26112fba458958889c15af78dfcf7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x531b0c795dda1eeac2856265a6881c2b3816ee59",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x541163adf0a2e830d9f940763e912807d1a359f5",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x549e38b0aec4af720f2a655edfa07b8bc5294a70",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x54ddfaba70576b04c836205f6d0135eda7f731e3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x557bf8209f68521db7ba45a7d85555b6cdebd082",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x55f1b72d43d85931c58018fbd7bf9d9142443216",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x561b94454b65614ae3db0897b74303f4acf7cc75",
+        "name": "CurveLiquidity"
+    },
+    {
+        "Address": "0x5633289538da1e5ecff7e83bb262bcfef8c0575f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x56abaf385a1b47074cecce29528ab4094d87fa63",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x574876a90cc8feb1bc8f70cef13ce85c2acdb186",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x574fe4e8120c4da1741b5fd45584de7a5b521f0f",
+        "name": "QI Staking"
+    },
+    {
+        "Address": "0x5761ac2e1cb06cc3f8e1dd7e40b358bb35558def",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5777d92f208679db4b9778590fa3cab3ac9e2168",
+        "name": "Uniswap V3: DAI-USDC"
+    },
+    {
+        "Address": "0x579ea3f1e0617aa237e36c0501822b55be8d84ed",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x57e08c90a68713bbccdc8778573a9170e5530caa",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+        "name": "ENS"
+    },
+    {
+        "Address": "0x580a84c73811e1839f75d86d75d88cca0c241ff4",
+        "name": "QI"
+    },
+    {
+        "Address": "0x585ae605dd802c3dce3403b5c306941f77a794b4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x58babcd845405c1a4cb4f6f382954c87a2f0ad0f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x593d28388f5466ebd00bad46960634ab193e68a0",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x59ae16b92d9ba31867bbfcf8552e7145cd211318",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x59c1349bc6f28a427e78ddb6130ec669c2f39b48",
+        "name": "UniSwap V2: BANK-WETH"
+    },
+    {
+        "Address": "0x59c3d7966837e8c6b96251b6ea0ef2cd4b17015c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x59f962b2d8b8c1889e88fe67840b230825a2fe4c",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x5a7010c3695a7548c5c8454ab53a05329cc28020",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5a87f5527f95f4bd220944a25f417c9aa3264efe",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+        "name": "LDO"
+    },
+    {
+        "Address": "0x5ad40fc0546f9d90dd0f46cf04457b652029152b",
+        "name": "TBT2021"
+    },
+    {
+        "Address": "0x5b0f43aa578f4a82530a1f4299c9e537b83d38ea",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5b6e2fcf3432403ac39d6d9c5ac4612526b7ecc4",
+        "name": "QiS: QI-USDT"
+    },
+    {
+        "Address": "0x5bb96c35a68cba037d0f261c67477416db137f03",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5bc9c90be23af74db084934c683d80f722e074d9",
+        "name": "NFT"
+    },
+    {
+        "Address": "0x5c1de9ce04dc35d8a2d2ab821840319f03a5e291",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5c2ed810328349100a66b82b78a1791b101c9d61",
+        "name": "amWBTC"
+    },
+    {
+        "Address": "0x5c6ac09b359c66a3a5cce7759fee106b5cd052a6",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x5cf6cc6a40fb56f2fb0e186903de8753b6f85511",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5dc02ea99285e17656b8350722694c35154db1e8",
+        "name": "BOND"
+    },
+    {
+        "Address": "0x5e31c357d03e9528e9bf95bd16e5c1ab3f7d37d0",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5e7adc44a745c43a58d8ab0a36e0566edbc01354",
+        "name": "Bad Night Reflects"
+    },
+    {
+        "Address": "0x5e8256a68e28655d9b421e94a0df3c292b6248bd",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+        "name": "LUSD"
+    },
+    {
+        "Address": "0x5f9ce0c2804af2a678d33e3617ee829c00ef6be0",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x5fa5b62c8af877cb37031e0a3b2f34a78e3c56a6",
+        "name": "yvCurve-LUSD"
+    },
+    {
+        "Address": "0x5fe53632cbffc86a33fda1a0d0905ca849f8360d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x604229c960e5cacf2aaeac8be68ac07ba9df81c3",
+        "name": "QiS: USDT-WMATIC"
+    },
+    {
+        "Address": "0x60594a405d53811d3bc4766596efd80fd545a270",
+        "name": "UniSwap V3: DAI-WETH"
+    },
+    {
+        "Address": "0x60d55f02a771d515e077c9c2403a1ef324885cec",
+        "name": "amUSDT"
+    },
+    {
+        "Address": "0x612ee4bfd2ee2eaa7ef44120543c78ab4bd16635",
+        "name": "BLUE SKY"
+    },
+    {
+        "Address": "0x614bf705ea7a759444714e689f7993fff74f7c71",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x61d86eea94e7ff13a3712f05daf23629ec611899",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x61f2894c40bb54073342a31a7184276158c49f81",
+        "name": "\"DSProxy #211"
+    },
+    {
+        "Address": "0x625e695f75c684c2db389d165dede08edb03c3e8",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6299dbe5be8ed5d5df9ff5a21b485c7da0cf3476",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x62d6158cd6a0ec39ceb174ae54a9976f6363ba5c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x632e675672f2657f227da8d9bb3fe9177838e726",
+        "name": "Uniswap V3: RPL-WETH"
+    },
+    {
+        "Address": "0x63749fd1b46422b7e6420caf7f85e8663810e27f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x639192d54431f8c816368d3fb4107bc168d0e871",
+        "name": "DCYX Distributor"
+    },
+    {
+        "Address": "0x63cbd1858bd79de1a06c3c26462db360b834912d",
+        "name": "eDOUGH"
+    },
+    {
+        "Address": "0x641ca8d96b01db1e14a5fba16bc1e5e508a45f2b",
+        "name": "QiS: FOMO-GHST"
+    },
+    {
+        "Address": "0x647cc9dd357ba0c1abc1cb5f4b2f1537f41cb129",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6545b409acdd7e1be14c835b5c3b826c5d312d02",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x65b2532474f717d5a8ba38078b78106d56118bbb",
+        "name": "pLQTY"
+    },
+    {
+        "Address": "0x65f7ba4ec257af7c55fd5854e5f6356bbd0fb8ec",
+        "name": "stkDYDX"
+    },
+    {
+        "Address": "0x65f80893c4f177882281f654c386e058f8e10df4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x65f9deacd2eb34ea0e86be918f922ed5fcab75a0",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x65fd082a10bfeae7d62c419a8e96f3f3ca74bc24",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6612a9089c38e356a58d8800d49d542ef9dbf599",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x66697dabffe51a73e506f463b27e388512ed6ecd",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x67023130eaab2969e26e5a25e2abf901c01bcda0",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x674bdf20a0f284d710bc40872100128e2d66bd3f",
+        "name": "Loopring"
+    },
+    {
+        "Address": "0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a",
+        "name": "ibETH"
+    },
+    {
+        "Address": "0x67da637a5d8db19b16235801e2c768f369d95a0c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x67e887913b13e280538c169f13d169a659a203de",
+        "name": "UniSwap V3: LUSD-USDT"
+    },
+    {
+        "Address": "0x67fdbb7326a6de4194b1dfee2e1e212952f0092b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x688efd907e379289a02aff57ca2752f4e038c0f7",
+        "name": "FTX: Deposit"
+    },
+    {
+        "Address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45",
+        "name": "Uniswap Router"
+    },
+    {
+        "Address": "0x68bb81b3f67f7aab5fd1390ecb0b8e1a806f2465",
+        "name": "NFTP"
+    },
+    {
+        "Address": "0x68dc11d67c4d7d768b95dbeb8d36fdb12acb1924",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x695d4e4936c0de413267c75ca684fc317e03a819",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x697203445b51cc43664eeb8d87db3117425b3f52",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6994ba66fd6789044c4ad43786cc16840d099c8a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2",
+        "name": "ALPHA"
+    },
+    {
+        "Address": "0x6a5d4af84f69637c7ca8fb7eb5c606c9108181c1",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6aa6646e7f140b3c0977704208e434a683a4d1fc",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "name": "DAI"
+    },
+    {
+        "Address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "name": "SUSHI"
+    },
+    {
+        "Address": "0x6b557b76cdf5d5587df437a6d49833050c3b1d8f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6b9a80572382159d3656ea43bea144f1151ccce7",
+        "name": "RTM"
+    },
+    {
+        "Address": "0x6c127b8ff818d1bbbf6015c327fde5ca73a78a91",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6c6bc977e13df9b0de53b251522280bb72383700",
+        "name": "Uniswap V3: DAI-USDC"
+    },
+    {
+        "Address": "0x6c723cac1e35fe29a175b287ae242d424c52c1ce",
+        "name": "Gotchi-Raffle"
+    },
+    {
+        "Address": "0x6cc5f688a315f3dc28a7781717a9a798a59fda7b",
+        "name": "OKX:Withdraw"
+    },
+    {
+        "Address": "0x6d608c51c198c728c0a00bfdfa8fef5d57ff4424",
+        "name": "QiS: Zap Out"
+    },
+    {
+        "Address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+        "name": "LQTY"
+    },
+    {
+        "Address": "0x6e14790535c04b1a58592fbee6109d9bc57a51ad",
+        "name": "VLT"
+    },
+    {
+        "Address": "0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827",
+        "name": "QiS: USDC:WMATIC"
+    },
+    {
+        "Address": "0x6f01aff7cd67b18e0af4f4a4682b469fb031abdb",
+        "name": "Dino: Deposit"
+    },
+    {
+        "Address": "0x6f48eca74b38d2936b02ab603ff4e36a6c0e3a77",
+        "name": "Uniswap V3: DAI-USDT"
+    },
+    {
+        "Address": "0x6fce63859a859a0f30ed09b12f5010d790618ca4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x6fcf9d80e2b597f4b3fa764b5626f573a9fc93d3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7068ea5255cb05931efa8026bd04b18f3deb8b0b",
+        "name": "camWMATIC"
+    },
+    {
+        "Address": "0x70ea56e46266f0137bac6b75710e3546f47c855d",
+        "name": "Uniswap V2: RPL:ETH"
+    },
+    {
+        "Address": "0x714daa289b9ec35a3a58802b3a45dfd2a688187e",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x7295304b10740ba8e037826787d3e9386fd99925",
+        "name": "QiS: maUSDC-USDC"
+    },
+    {
+        "Address": "0x72db34299d4bb489993a49822708ce692cca3eb2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x737901bea3eeb88459df9ef1be8ff3ae1b42a2ba",
+        "name": "ZK.Money Deposit"
+    },
+    {
+        "Address": "0x74214f5d8aa71b8dc921d8a963a1ba3605050781",
+        "name": "QiS: MAI-DAI"
+    },
+    {
+        "Address": "0x74de5d4fcbf63e00296fd95d33236b9794016631",
+        "name": "Airswap"
+    },
+    {
+        "Address": "0x7540db3e26d453ee6298bbdd263a8e4d88bfbe7f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x75c32299da1395c5ba98c6e213f0deb1320a33cb",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x75c8866f47293636f1c32ecbcd9168857dbefc56",
+        "name": "Gotchi: TixCreator"
+    },
+    {
+        "Address": "0x760ba4580bbc2cdb1a71f9cbd896196e5d4afca3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x763c823e2bdd66538c85736b1784031fa4d993f6",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x76b22b8c1079a44f1211d867d68b1eda76a635a7",
+        "name": "HopProtocol"
+    },
+    {
+        "Address": "0x7805b64e2d99412d3b8f10dfe8fc55217c5cc954",
+        "name": "Quickswap MAI-WMATIC"
+    },
+    {
+        "Address": "0x781873c3bea05cd05f2c46bc8d109f27dee0a011",
+        "name": "FTX: Deposit"
+    },
+    {
+        "Address": "0x783ff1952e1d8bd4a9d60d579f92cbc4b8c6ec4d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7858e59e0c01ea06df3af3d20ac7b0003275d4bf",
+        "name": "UniSwap V3: USDC-USDT"
+    },
+    {
+        "Address": "0x795065dcc9f64b5614c407a6efdc400da6221fb0",
+        "name": "SLP-1"
+    },
+    {
+        "Address": "0x795f50722cf5ad82f78dda8dc8f7b235332977c3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x79da12c005011f66b182069c9c6be59ac494e038",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x79fc7b4eb66df66789a55dd377aec04929248a1b",
+        "name": "aave-Fl"
+    },
+    {
+        "Address": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "name": "Uniswap Router"
+    },
+    {
+        "Address": "0x7a45922f95c845ff9be01112afcf207968a9ca0b",
+        "name": "CBLB"
+    },
+    {
+        "Address": "0x7af4df1b4efec357deaf44ca3e562d9ed17b315c",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x7afcf11f3e2f01e71b7cc6b8b5e707e42e6ea397",
+        "name": "QiS: QI-MAI"
+    },
+    {
+        "Address": "0x7bb8705a3581f549c039401903251aa010ade9c6",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+        "name": "OpenSea"
+    },
+    {
+        "Address": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
+        "name": "icETH"
+    },
+    {
+        "Address": "0x7cdceb7f8d9fee89b9628f07f0f34a4a28e5e39c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
+        "name": "WETH"
+    },
+    {
+        "Address": "0x7cfab03f7cbbe6069475b736d121c42810134562",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7d1a6a4f806a4a64ad32e7f2350e176ea6b9a1f6",
+        "name": "Invitation token. Please Visit https://atuns.org a"
+    },
+    {
+        "Address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+        "name": "MATIC"
+    },
+    {
+        "Address": "0x7d2bdffad23e4d6d596616a44e1ec50751a475f0",
+        "name": "QiS: KEK-WMATIC"
+    },
+    {
+        "Address": "0x7dda5e1a389e0c1892caf55940f5fce6588a9ae0",
+        "name": "camWBMVT"
+    },
+    {
+        "Address": "0x7de3edc8fe47f8a2ac06e3d8d1ba35385946f162",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7e4724c60718a9f87ce51bcf8812bf90d0b7b9db",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7eb123a14d9f37a2c2f5a8af84bd884b986c7a90",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7ed1084d30c3b8ab395f46344f5d7e6eda5c9476",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7f38d60d94652072b2c44a18c0e14a481ec3c0dd",
+        "name": "stableDebtTUSD"
+    },
+    {
+        "Address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+        "name": "wstETH"
+    },
+    {
+        "Address": "0x7f433b38dd933cea19506d1fc26369b326d55cec",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+        "name": "AAVE"
+    },
+    {
+        "Address": "0x80039dc3d5bb48ec4bd822c4e8828574fdcc51a6",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x80659de232b214bb966ed519d68da45add6ccb02",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8078a5bdd8991767e4bcff4f0e08c550fbac2376",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x80eb729e8dc5f88d40f3b4e81a961173d4040cb2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x82dfdb2ec1aa6003ed4acba663403d7c2127ff67",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x830437c8d234c61ae6bffbc11f2b885e6e934554",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x83111e1888c1e49e8703e248edeaa34ef868a1de",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x831753dd7087cac61ab5644b308642cc1c33dc13",
+        "name": "QUICK"
+    },
+    {
+        "Address": "0x83943da402891aac9b7b2e3a0f5f2b8b73882ced",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8484ef722627bf18ca5ae6bcf031c23e6e922b30",
+        "name": "Polygon Ether Bridge"
+    },
+    {
+        "Address": "0x84dfd3ae7fd99d1bbdfe341dfa3d6d4120bb3730",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x85298774c2dbbbb9191373a9bc14f4a9434e5ff4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8531c4e29491fe6e5e87af6054fc20fccf0b4290",
+        "name": "SLP: WBTC-WMATIC"
+    },
+    {
+        "Address": "0x853ee4b2a13f8a742d64c8f088be7ba2131f670d",
+        "name": "QiS: WETH-USDC"
+    },
+    {
+        "Address": "0x8560f3aa7c2522bfeabca88bb8f5f55efe9611fe",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x857d291aefe194a62df598a79bd9bfc2f1ad38a2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x863e77b0bfc12193d2f5d41cdcace81f1bb5a09f",
+        "name": "BPRO Options"
+    },
+    {
+        "Address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+        "name": "NDX"
+    },
+    {
+        "Address": "0x86935f11c86623dec8a25696e1c19a8659cbf95d",
+        "name": "GOTCHI"
+    },
+    {
+        "Address": "0x86e55ed1f658e7ebbb60eadecd200302be8016f9",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x87359742728a938aa9b4991d2352fbd24b7a489e",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8762296f28a30879e737573d497659f1bf60ce54",
+        "name": "FTX: Deposit"
+    },
+    {
+        "Address": "0x880decade22ad9c58a8a4202ef143c4f305100b3",
+        "name": "Qi: Staking"
+    },
+    {
+        "Address": "0x88a1303994f0c906d8c0ee9c72fe17f627ed9f48",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x88d84a85a87ed12b8f098e8953b322ff789fcd1a",
+        "name": "cMVT"
+    },
+    {
+        "Address": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+        "name": "SWAP USDC-WETH"
+    },
+    {
+        "Address": "0x8901f96137b4ec363a4161850e59573fcaeebf24",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x891b6329c3fc04f1984ac4ad3d9d1b3928ed8424",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472",
+        "name": "PolyDoge"
+    },
+    {
+        "Address": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+        "name": "Uniswap V3: USDC-WETH"
+    },
+    {
+        "Address": "0x8ae127d224094cb1b27e1b28a472e588cbcc7620",
+        "name": "AAX"
+    },
+    {
+        "Address": "0x8ae720a71622e824f576b4a8c03031066548a3b1",
+        "name": "UNI-V2-5"
+    },
+    {
+        "Address": "0x8af4277c5e84158494e2ee4cdef463f87abdae4c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9",
+        "name": "UNI: GHST-QUICK"
+    },
+    {
+        "Address": "0x8b208a8f61e6e502cbb28c3f17412b30ce6dfd70",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8b8a1b2d1578b37a5f21f10b1d80764ab002a87b",
+        "name": "Practice DAO"
+    },
+    {
+        "Address": "0x8c13148228765ba9e84eaf940b0416a5e349a5e7",
+        "name": "UniSwap V3: INDEX:WETH"
+    },
+    {
+        "Address": "0x8c1b40ea78081b70f661c3286c74e71b4602c9c0",
+        "name": "QiS: WI-WETH"
+    },
+    {
+        "Address": "0x8c41492cd9f15d0ca22003aecb4b00d02e4ce8e6",
+        "name": "GotchiCare"
+    },
+    {
+        "Address": "0x8cb65e1432ea5bed94c207c97c42ac9cb54bf12b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8ceed6619aeffd5476315b90eb081485da2aebca",
+        "name": "SLP: USDC-MAI"
+    },
+    {
+        "Address": "0x8d4d1bc902f21141ec37c6258f4b93a63cbaa9cf",
+        "name": "Gotchi Care"
+    },
+    {
+        "Address": "0x8dcba0b75c1038c4babbdc0ff3bd9a8f6979dd13",
+        "name": "UNI-V2-4"
+    },
+    {
+        "Address": "0x8ded09ffe3110d353f02dce34fb56e305e6ae4ac",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4",
+        "name": "amWMATIC"
+    },
+    {
+        "Address": "0x8dfdea6a4818d2aa7463edb9a8841cb0c04255af",
+        "name": "Aave: Zap In"
+    },
+    {
+        "Address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
+        "name": "aPolGHST"
+    },
+    {
+        "Address": "0x8f1fc3766884d4a890acb2cf4bd7a9af7b2a6932",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "name": "DAI"
+    },
+    {
+        "Address": "0x8f9be4310f9abb0e5843cc6363908c9b01dfeb3f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8fdeffaf8fa2b3754da2268e626ea1f3733ee214",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8feebfa4ac7af314d90a0c17c3f91c800cfde44b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x8ff70537cea84dcf6e31f8bb28f0acc89a4030a2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x90b095ed72ce1dd2da4bb689bb1e3588a5d45f7b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x90ef65e04dfa51e14b16206d79782c978a2cc033",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9159fb2ddea71909b54848b4f5ed05b8f34b4fe2",
+        "name": "hedg-Fl"
+    },
+    {
+        "Address": "0x91d2092283a517cf8b5d1c1a8d4e1fe4c075177c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x920f22e1e5da04504b765f8110ab96a20e6408bd",
+        "name": "Adamant: Rewards"
+    },
+    {
+        "Address": "0x9216c31d8146bcb3ea5a9162dc1702e8aedca355",
+        "name": ""
+    },
+    {
+        "Address": "0x929e3a0a2b9cce36cb614ce17ca5952bfa409660",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+        "name": "DYDX"
+    },
+    {
+        "Address": "0x930914b865db5fe9a15a42a99481f77f469c9f04",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x93468adecdccd18131ce1fd8caeed68fb3de43e7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9346c01def77c612b1c8e1ccf5ac6e15fe4c17e4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9359c87b38dd25192c5f2b07b351ac91c90e6ca7",
+        "name": "UniSwap V3: DPI-WETH"
+    },
+    {
+        "Address": "0x93c577cde1bcb672ae03d30c527484598f8beded",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x93ea6ec350ace7473f7694d43dec2726a515e31a",
+        "name": "RAFFLE"
+    },
+    {
+        "Address": "0x942bc2d3e7a589fe5bd4a5c6ef9727dfd82f5c8a",
+        "name": "EXPLORE"
+    },
+    {
+        "Address": "0x942c49276b6c3f45a5571c4c1a19b1a7ef3bb3cc",
+        "name": "OKX: Withdraw"
+    },
+    {
+        "Address": "0x944a5c12cd4399abc6883ff1ba40a14c23b2fd37",
+        "name": "mooMaiQI-MATIC"
+    },
+    {
+        "Address": "0x94bbaf0999db51f5d957fa638520d562bbe114ed",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x95972b30b0de283d8f3f72032aa3038dad49770a",
+        "name": "SGNINV"
+    },
+    {
+        "Address": "0x95ac8d067e3501063fa95f17758da79d4caac37f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x95e9464b5cc3bf81210259812b51665a437aa11b",
+        "name": "wPGX.app"
+    },
+    {
+        "Address": "0x9663f2ca0454accad3e094448ea6f77443880454",
+        "name": "UniSwap V3: LUSD-WETH"
+    },
+    {
+        "Address": "0x966b106132ad96b1ffe45736d81693a8c58b6a90",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x974ea1b7f459a46cb8da5131dd0f98492c5a0988",
+        "name": "UNI-V2-9"
+    },
+    {
+        "Address": "0x9757f2d2b135150bbeb65308d4a91804107cd8d6",
+        "name": "Rarible"
+    },
+    {
+        "Address": "0x9875094945893d40979e2858b6caf788dcce3368",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9968ef6a6c5cd7f2fa1b21dfca7496e9c19cb11a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x99ac39f74cc51f683667f08b4591a6bc3639e0c5",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x99c6fcc5700c37f3b437f7ca09cff6a588354377",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1",
+        "name": "Optimism Bridge"
+    },
+    {
+        "Address": "0x9a3f1b22154f7ae4b0b248b105c2f3c3e27f477a",
+        "name": "PG"
+    },
+    {
+        "Address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+        "name": "BAL"
+    },
+    {
+        "Address": "0x9a8b2601760814019b7e6ee0052e25f1c623d1e6",
+        "name": "QiS: QI-WMATIC"
+    },
+    {
+        "Address": "0x9a9ca7db52932443b94edf003dfb4dfa569947ef",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9aeb92ef2579822e53c82d601c812eec6cd6d988",
+        "name": "NFT"
+    },
+    {
+        "Address": "0x9b05e8010663381bd6184d9a7d6f7179adb55edb",
+        "name": "kkde-Cl-26"
+    },
+    {
+        "Address": "0x9b35d25765a47cdec89650d0a1613f89a9230abd",
+        "name": "hedg-Cl-5"
+    },
+    {
+        "Address": "0x9bde27f18ca5e70157a0c05391ed9f430a900762",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9bfc35e76dd986a1e341785e4e053e9c92160d6d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9c49ba0212bb5db371e66b59d1565b7c06e4894e",
+        "name": "CC10"
+    },
+    {
+        "Address": "0x9c77233bbd235a3ed219daa051e0a3de5ce03c3e",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9c88406e4e2705f1035158d3e12dd5291f9ea55a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9cb74c8032b007466865f060ad2c46145d45553d",
+        "name": "IDEX"
+    },
+    {
+        "Address": "0x9cb95b2266178e30c3eb2d8b4371c6b60f3783c7",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0x9da5a447b5d10b9a6171fe35aa595543ea6e9d69",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9e2d266d6c90f6c0d80a88159b15958f7135b8af",
+        "name": "SSX"
+    },
+    {
+        "Address": "0x9e725cf7265d12fd5f59499aff1258ca92cac74d",
+        "name": "CHICK"
+    },
+    {
+        "Address": "0x9f03309a588e33a239bf49ed8d68b2d45c7a1f11",
+        "name": "QiS: DINO-WETH"
+    },
+    {
+        "Address": "0x9f23007d231f80be8e8946139f06b9feaaac4944",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0x9fc689ccada600b6df723d9e47d84d76664a1f23",
+        "name": "cDAI+cUSDC+USDT"
+    },
+    {
+        "Address": "0x9fd4969573f9dec7882409709c9b35f2dc3074ca",
+        "name": "TAO"
+    },
+    {
+        "Address": "0x9FD9946E526357B35D95Bcb4b388614be4cFd4AC",
+        "name": "Alchemix: alETH"
+    },
+    {
+        "Address": "0x9ff84b91998df96a6587db8dde8d4e47518107d6",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa02d547512bb90002807499f05495fe9c4c3943f",
+        "name": "stkGHST-QUICK"
+    },
+    {
+        "Address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "name": "USDC"
+    },
+    {
+        "Address": "0xa0c68c638235ee32657e8f720a23cec1bfc77c77",
+        "name": "Polygon: Bridge"
+    },
+    {
+        "Address": "0xa0ceca20349dcc3556e0fbaaac8f8aa1bf85da4e",
+        "name": "BPRO LM Program"
+    },
+    {
+        "Address": "0xa0f32863ac0e82d36df959a95fedb661c1d32a6f",
+        "name": "BatchTransferAlch"
+    },
+    {
+        "Address": "0xa11a550143ddd462369dea5b1d08dbdb3f798ebd",
+        "name": "OKX:Deposit"
+    },
+    {
+        "Address": "0xa132fad61ede08f1f288a35ff4c10dcd1cb9e107",
+        "name": "QiS: Staking"
+    },
+    {
+        "Address": "0xa1a39bd76a3180c48611476dfaf75b28f990c8d3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa1bbd8d39ed536dea030a32f3f6c5916c845a800",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+        "name": "ALPHA"
+    },
+    {
+        "Address": "0xa260dbd54c49af2d3fae33e348655ecd43588996",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa39b14f57087aa5f16b941e5ec182b84a5432aa7",
+        "name": "BeezEX"
+    },
+    {
+        "Address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+        "name": "miMATIC"
+    },
+    {
+        "Address": "0xa44c8e0ecaefe668947154ee2b803bd4e6310efe",
+        "name": "GBM Auction"
+    },
+    {
+        "Address": "0xa44eea8180ac3f66e7dbeab8d0a15cbf1c90b05f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
+        "name": "UniSwap V2: DAI-WETH"
+    },
+    {
+        "Address": "0xa58723e04af0e1c38213036b321e1243f8e16336",
+        "name": "SCP"
+    },
+    {
+        "Address": "0xa5bf14bb945297447fe96f6cd1b31b40d31175cb",
+        "name": "QiS: ADDY-WETH"
+    },
+    {
+        "Address": "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff",
+        "name": "Quickswap: Router"
+    },
+    {
+        "Address": "0xa671b4566810f22cc67ff7c52e6f7c0959880af8",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa67868fb4f9828d046490dfc6ffb36a1e7651a55",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa6f5cf768a0a9d0ee712491ee981778602b0728b",
+        "name": "SLP: XDO-USDC"
+    },
+    {
+        "Address": "0xa73df646512c82550c2b3c0324c4eedee53b400c",
+        "name": "SushiSwap: Index-WETH"
+    },
+    {
+        "Address": "0xa74f2d8990b69a6c1f021f12c3e102ac303844f1",
+        "name": "FTX: Deposit"
+    },
+    {
+        "Address": "0xa7bc844a76e727ec5250f3849148c21f4b43ceea",
+        "name": "PICKLE LQTY Staking"
+    },
+    {
+        "Address": "0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270",
+        "name": "BLOCKS"
+    },
+    {
+        "Address": "0xa7efae728d2936e78bda97dc267687568dd593f3",
+        "name": "OKX: Withdraw"
+    },
+    {
+        "Address": "0xa7f1c77998bae58614be010ad2a806639e280056",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa7f41291785211ab3907e1b05dfcf35f64012df7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xa81779713adca0df281ab14c9144637d1d801e47",
+        "name": "QiS: VLT-GHST"
+    },
+    {
+        "Address": "0xa85f5a59a71842fddaabd4c2cd373300a31750d8",
+        "name": "Gotchi: Open"
+    },
+    {
+        "Address": "0xa97946357a1f6c251b9d257833ab0233ed863527",
+        "name": "GotchiVerse Realm"
+    },
+    {
+        "Address": "0xa9cfc59a96eaf67f8e1b8bc494d3863863c1f8ed",
+        "name": "NATION"
+    },
+    {
+        "Address": "0xaa0c68b862e55ff3e76a9584f3390a7b41f294bf",
+        "name": "Strange Dezuki"
+    },
+    {
+        "Address": "0xaa5843865437ed4448bf95904f114264f0e4b113",
+        "name": "SLP: XDO-WMATIC"
+    },
+    {
+        "Address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+        "name": "ETH-FLI"
+    },
+    {
+        "Address": "0xaa9654becca45b5bdfa5ac646c939c62b527d394",
+        "name": "DINO"
+    },
+    {
+        "Address": "0xaa99157856d8785c3a0bab85f070766554a1d882",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xab38a5e44d891ff6a3f4b5d54839f3ed13b48521",
+        "name": "X2"
+    },
+    {
+        "Address": "0xab8e74017a8cc7c15ffccd726603790d26d7deca",
+        "name": "Alch-Stake"
+    },
+    {
+        "Address": "0xabd058b85c6994eed7d6008cf446843b0be7d71b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xabea9132b05a70803a4e85094fd0e1800777fbef",
+        "name": "zkSync: Bridge"
+    },
+    {
+        "Address": "0xabf128d4be3072cdfcb021e702d2b8d8437c789d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xac416973252fba6f8b4bee5817f18cf0e9704ee9",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xacba84f681250a027686b85fb4903f9f1c9caef3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xad32a8e6220741182940c5abf610bde99e737b2d",
+        "name": "DOUGH"
+    },
+    {
+        "Address": "0xad46e398a724c44bc769906f51fdec541e15f597",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xada619cce3582bd8a9982b834a5dd24a2e45c16c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xada8aa2777825bc615c5f12126f8bf275e2245e5",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xadbf1854e5883eb8aa7baf50705338739e558e5b",
+        "name": "QiS: WETH-WMATIC"
+    },
+    {
+        "Address": "0xadefafb4f09c37ec424ffb9fd63af4fe1cd2d705",
+        "name": "Hidden Reflection"
+    },
+    {
+        "Address": "0xae183db956faf760aa29bfcfda4bdddb02fbdd0e",
+        "name": "WLP: WEX-WBTC"
+    },
+    {
+        "Address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+        "name": "stETH"
+    },
+    {
+        "Address": "0xaec7d9e4216758e88b926695df4a6d47abccc0ef",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xaede4bf4ca6b456cc23a18bf01acf66ce678d4db",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xaeed9f036436fb1e55cfdacc79dd4bfe89af691f",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xaf36df03d869c5ba1abe040c624d17600c7cf8e9",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xaf50fe9282e1be8c08b899a51628a085e81d0d57",
+        "name": "Bprotocol KPI Program"
+    },
+    {
+        "Address": "0xb0c4cc1aa998df91d2c27ce06641261707a8c9c3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb0e35478a389dd20050d66a67fb761678af99678",
+        "name": "QiS: GLTR-GHST"
+    },
+    {
+        "Address": "0xb13201b48b1e61593df055576964d0b3aab66ea3",
+        "name": "UniSwap V2: LQTY-WETH"
+    },
+    {
+        "Address": "0xb1a5fecebbfb02f6f44d69a4b7f096af552c486b",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0xb1be70ae1bc1b3057e99ce1b6c17fa4abe17b1c6",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb208f8bb431f580cc4b216826affb128cd1431ab",
+        "name": "GotchiDAO"
+    },
+    {
+        "Address": "0xb294ce56b0b12d0f32d61dca52bd39dae74e1156",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb2a1a7c670df98a600194b525014926a2b50a334",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb2ead8bb7446cc130c3c515fae31c1865ed66aaf",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb3e2a7b1295d9ee03e1f300dfccaab2ecd47ee53",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb424dfdf817faf38ff7acf6f2efd2f2a843d1aca",
+        "name": "vQi"
+    },
+    {
+        "Address": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+        "name": "Uniswap V2: USDC-WETH"
+    },
+    {
+        "Address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+        "name": "RPL"
+    },
+    {
+        "Address": "0xb53cf0a586973ab15c0a045990d06b4fa083dd5a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb674ec53adc1d72a2a25d2b5109a766ce6ad1083",
+        "name": "QiS: ADDY-USDC"
+    },
+    {
+        "Address": "0xb6d9a4649c579b8768f1cb55e9dd6ba99581e4a9",
+        "name": "SLP: ADDY-WETH"
+    },
+    {
+        "Address": "0xb72ed8401892466ea8af528c1af1d0524bc5e105",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb792074f575e1e52cb8dc9af2b345ff10a144120",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xb7b357b9b6697dcf584097d8ab7d2d1cff4ab33c",
+        "name": "MGN"
+    },
+    {
+        "Address": "0xb8901acb165ed027e32754e0ffe830802919727f",
+        "name": "HopProtocol Bridge"
+    },
+    {
+        "Address": "0xb9a4bca06f14a982fcd14907d31dfacadc8ff88e",
+        "name": "Staked DOUGH/ETH"
+    },
+    {
+        "Address": "0xb9c8ad35a72dfd32e2b80bb75e37c3b53c3cfd45",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xba12222222228d8ba445958a75a0704d566bf2c8",
+        "name": "Balancer v2"
+    },
+    {
+        "Address": "0xba12fda058a14eb03c14613601c3a30d6f955196",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xba6273a78a23169e01317bd0f6338547f869e8df",
+        "name": "camWBTC"
+    },
+    {
+        "Address": "0xbace1e5f9cb38f56fa8b096e3fe940d9c34d189d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xbad858a0cf09f210fcf35cbf83569178879b47f2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xbb000a93fef6b61dbc3b03b9c09788b309f30793",
+        "name": "GAB"
+    },
+    {
+        "Address": "0xbb73548a0e6f839fb58e9d59969ba6aedecdf5f1",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xbb8a5de36f644d315f0fb446c2019990423daf5f",
+        "name": "FTX: Deposit"
+    },
+    {
+        "Address": "0xbbbbbbb5aa847a2003fbc6b5c16df0bd1e725f61",
+        "name": "BPRO"
+    },
+    {
+        "Address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+        "name": "alUSD"
+    },
+    {
+        "Address": "0xbd538a24bee43033adfd4eeee99003efa31c31bc",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xbd8aab70a86f74eba55d071576a71305b598235e",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xbdbf4fa859c64d4146389daab9b4f3902517e632",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xbe7635457248b726eb61468dbc731ddca4083d1c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xbe9512e2754cb938dd69bbb96c8a09cb28a02d6d",
+        "name": "GBTS"
+    },
+    {
+        "Address": "0xbeab1fce4f20fdb450545aac064fdb635cbd21aa",
+        "name": "OKX:Deposit"
+    },
+    {
+        "Address": "0xbeadf48d62acc944a06eeae0a9054a90e5a7dc97",
+        "name": "Aave: MATIC"
+    },
+    {
+        "Address": "0xbf15754dc61f5e552a5c5a51e6b571d567798650",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xbf646010b1ae86ad7fbb4cff5fd93c7019331cc9",
+        "name": "QiS: CC10:WETH"
+    },
+    {
+        "Address": "0xbf72da2bd84c5170618fbe5914b0eca9638d5eb5",
+        "name": "Maker-WBTC"
+    },
+    {
+        "Address": "0xbfad162775ebfb9988db3f24ef28ca6bc2fb92f0",
+        "name": "QiS: KEK-GHST"
+    },
+    {
+        "Address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+        "name": "COMP"
+    },
+    {
+        "Address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "name": "WETH"
+    },
+    {
+        "Address": "0xc05aaf8800615a52e1aec2d0892d905a38c7499d",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xc098b2a3aa256d2140208c3de6543aaef5cd3a94",
+        "name": "FTX: Withdraw"
+    },
+    {
+        "Address": "0xc11eb64d53bc2d5a91e75f8d136e4bce1e80ca1b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc13ec844eb19d6a72ddd5f2779484ba35279a817",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+        "name": "ENS"
+    },
+    {
+        "Address": "0xc1849483ce99a9fa040b7609f3183ca0fab4ab0b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "name": "USDT"
+    },
+    {
+        "Address": "0xc21d353ff4ee73c572425697f4f5aad2109fe35b",
+        "name": "Alchemix"
+    },
+    {
+        "Address": "0xc23841d8a9011fe7eb789ce44a9f3ee0a91a53c0",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc2d131a52a7bc75f6558588d010d649e02710115",
+        "name": "Rarible Seller"
+    },
+    {
+        "Address": "0xc2e9f25be6257c210d7adf0d4cd6e3e881ba25f8",
+        "name": "UniSwap V3: DAI-WETH"
+    },
+    {
+        "Address": "0xc2fec6e52a2e4622eb91e5ae4f23f0ea73c47aa2",
+        "name": "SLP: xUSD-WMATIC"
+    },
+    {
+        "Address": "0xc315239cfb05f1e130e7e28e603cea4c014c57f0",
+        "name": "Hop: Bridge"
+    },
+    {
+        "Address": "0xc34112272339fb0fc993a22543adb6f54e133f86",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756",
+        "name": "LDO"
+    },
+    {
+        "Address": "0xc3fdbadc7c795ef1d6ba111e06ff8f16a20ea539",
+        "name": "ADDY"
+    },
+    {
+        "Address": "0xc44d8852791ca53d8db912b7d71c8aef6c8971e1",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xc46991072c7eac184f7bd69d3122cd1750300b27",
+        "name": "WLP: WEX-WMATIC"
+    },
+    {
+        "Address": "0xc4a707353599436859af654f829b75e635fde289",
+        "name": "QiS: ADDY-QUICK"
+    },
+    {
+        "Address": "0xc4bb528bff49ad41c70dcf8095f56f751f9d344b",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xc4f1e3020e1b07b66afbbbee30f50383f46d7091",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+        "name": "HOP"
+    },
+    {
+        "Address": "0xc539e4d5bf0248ea7b82f08316c911a0654b9bce",
+        "name": "Bad kolectiv"
+    },
+    {
+        "Address": "0xc57feb6d8d5edfcce4027c243dceb2b51b0e318b",
+        "name": "Alchemica"
+    },
+    {
+        "Address": "0xc590175e458b83680867afd273527ff58f74c02b",
+        "name": "MetaMaskSwap: Router"
+    },
+    {
+        "Address": "0xc59aab9f3bb98781c0e224f1b26f34afd04c237f",
+        "name": "FTX: Deposit"
+    },
+    {
+        "Address": "0xc5ce46e818728e3256f13d843f8174ec6220b270",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0xc63c477465a792537d291adb32ed15c0095e106b",
+        "name": "QI Rewards"
+    },
+    {
+        "Address": "0xc68c8452be34032ab999787796ae0faaf071e054",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc68e83a305b0fad69e264a1769a0a070f190d2d6",
+        "name": "ROLL"
+    },
+    {
+        "Address": "0xc765eca0ad3fd27779d36d18e32552bd7e26fd7b",
+        "name": "QiS: ALPHA-GHST"
+    },
+    {
+        "Address": "0xc7870abf8b0d927e40b96bc8125ed2644691b27e",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0xc7f0e3118b24f30a6aa7d703e198996f04b64e32",
+        "name": "uBPRO-BIP4"
+    },
+    {
+        "Address": "0xc80aa78dc2ad53a0db4653de027d15e5e3ea646a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc95bd3223bab18fc046f94099cc7584c3f12e048",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xc98711a62a069675a27920af2f3287b19364f829",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xc99df6b7a5130dce61ba98614a2457daa8d92d1c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xcbcdca647cfda9283992193604f8718a910b42fc",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xcc84cc9462e4f1f45597c584123ee31cd7e5864b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xccb9d2100037f1253e6c1682adf7dc9944498aff",
+        "name": "QiS: GHST-WETH"
+    },
+    {
+        "Address": "0xccf5122a55bca92677accb5a5328c390048956ec",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xcd6c1eef36ced2ec98ce4291d9ed32ffb9230ab7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xcdbd4089c2f98da715e52127680f87afdb183a2e",
+        "name": "This token holders can claim reward token. Please"
+    },
+    {
+        "Address": "0xcf2abff7b321ccaaaf4faca391aa4ffc87efec13",
+        "name": "QiS: Mai-WETH"
+    },
+    {
+        "Address": "0xcf61a2535171e96de414d77b801c0cb85e40799d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xcfd39603a5059f966ca490beb3002a7a57a63233",
+        "name": "Gotchi Installation"
+    },
+    {
+        "Address": "0xd00c02f584698d585126a4d180d5c5c6fe64bd4d",
+        "name": "BASH"
+    },
+    {
+        "Address": "0xd017617f6f0fd22796e137a8240cc38f52a147b2",
+        "name": "UniSwap V3: GTC-WETH"
+    },
+    {
+        "Address": "0xd07dc4262bcdbf85190c01c996b4c06a461d2430",
+        "name": "RARI"
+    },
+    {
+        "Address": "0xd152f549545093347a162dce210e7293f1452150",
+        "name": "Disperse"
+    },
+    {
+        "Address": "0xd1ccab6b1f4606d80106b52a4415985ab78cbb93",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd1d5a4c0ea98971894772dcd6d2f1dc71083c44e",
+        "name": "Uniswap V3: LQTY-WETH"
+    },
+    {
+        "Address": "0xd31394b20e694d30dbb391e3bc51953907a1f7e2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd31bac2ee675cf904a68da14ba80efb9b405a4f5",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd32f222283d295f93664b11faac967e6826b635f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd3596c81fcab699192dc79c8e25f1362e3dff89a",
+        "name": "stan-Fl"
+    },
+    {
+        "Address": "0xd3c5501b85879d4f2fa6ee3c9d5196ebf403f2ab",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd4151c984e6cf33e04ffaaf06c3374b2926ecc64",
+        "name": "PixelCraft"
+    },
+    {
+        "Address": "0xd4a43f45efe82e7e06a07efd3016153762199e36",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd4d871419714b778ebec2e22c7c53572b573706e",
+        "name": "TOKEn"
+    },
+    {
+        "Address": "0xd4db806bb42595711cdb7d5918f6389e6517c973",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd4f45e3688aa30338559daa96dfbf7dd1b08ad13",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd54f502e184b6b739d7d27a6410a67dc462d69c8",
+        "name": "DYDX: Deposit"
+    },
+    {
+        "Address": "0xd5afb53917fc9554a16ab8d3d8fe726846caef05",
+        "name": "DinoExinctionPool"
+    },
+    {
+        "Address": "0xd5d3c3ed73827ddeb42286cb19a42ce1b369a338",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd68c76cd3ea991156f5c169fd6a23bc773b7f42b",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0xd6cb2adf47655b1babddc214d79257348cbc39a7",
+        "name": "ORCL5"
+    },
+    {
+        "Address": "0xd817e4c81d7263b72d16c6f7a95c2f16fbcf3a06",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd88e87cd53d5b3c88c07bdb4715a39b75d6e7870",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0xd8b62078a5b6219532a9a5f68cdb7cffaad07e9f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd8c9d9071123a059c6e0a945cf0e0c82b508d816",
+        "name": "Liquity: Issuance"
+    },
+    {
+        "Address": "0xd8d22817d216164d09ca5909a70beca608d65aa9",
+        "name": "camZapper"
+    },
+    {
+        "Address": "0xd8de6af55f618a7bc69835d55ddc6582220c36c0",
+        "name": "Uniswap V3: DYDX-WETH"
+    },
+    {
+        "Address": "0xd8e91949de00ad0fe8c1f79fd6a94da0a94113e7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xd92067f4468d75f47a8cc59359875fa75d3f9d9f",
+        "name": "OWN"
+    },
+    {
+        "Address": "0xd93f98b483cc2f9efe512696df8f5decb73f9497",
+        "name": "stkGRO"
+    },
+    {
+        "Address": "0xda0e6c2e5485b10ed2adcca7b10f81a708dc7d8f",
+        "name": "FlyerBullyApess"
+    },
+    {
+        "Address": "0xda816459f1ab5631232fe5e97a05bbbb94970c95",
+        "name": "DAI yVault"
+    },
+    {
+        "Address": "0xdaaf88a9bec5e584329e4954bf72e7909f3a71e9",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "name": "USDT"
+    },
+    {
+        "Address": "0xdae231a566408673c9a7822173adb7ca80713af4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xdae5f1590db13e3b40423b5b5c5fbf175515910b",
+        "name": "maUSDT"
+    },
+    {
+        "Address": "0xdb094e9d2a746bd3373f2c8b7b7a5d4b7199bca7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xdb46d1dc155634fbc732f92e853b10b288ad5a1d",
+        "name": "LPP"
+    },
+    {
+        "Address": "0xdb6f1920a889355780af7570773609bd8cb1f498",
+        "name": "0xExchange"
+    },
+    {
+        "Address": "0xdc24316b9ae028f1497c275eb9192a3ea0f67022",
+        "name": "Curve: stETH"
+    },
+    {
+        "Address": "0xdc9232e2df177d7a12fdff6ecbab114e2231198d",
+        "name": "QiS: WBTC-WETH"
+    },
+    {
+        "Address": "0xdc97fdaadcbc1c77525b8a1c981865bd2e0425aa",
+        "name": "SMTS"
+    },
+    {
+        "Address": "0xdcf8c1c378f58eaabdf57e2bc4fb8fbce420f322",
+        "name": "OKX: Deposit"
+    },
+    {
+        "Address": "0xdd564df884fd4e217c9ee6f65b4ba6e5641eac63",
+        "name": "Gotchi Lending"
+    },
+    {
+        "Address": "0xddc96536829582598fc6dd4cc545fd9e13a5b843",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xdde80c76b42725888657f14e06bc8bd569549dc9",
+        "name": "seed"
+    },
+    {
+        "Address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+        "name": "GTC"
+    },
+    {
+        "Address": "0xde6b1d60b5c5c0c8a41c8c3241c56e8754d5ca65",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff",
+        "name": "0xExchange"
+    },
+    {
+        "Address": "0xdf9eb223bafbe5c5271415c75aecd68c21fe3d7f",
+        "name": "Liquity: Active Pool"
+    },
+    {
+        "Address": "0xe0aab50e0696c61cc23d40b695eb7491d56a3889",
+        "name": "Dino: Extinction"
+    },
+    {
+        "Address": "0xe0cfa17aa9b8f930fd936633c0252d5cb745c2c3",
+        "name": "UniSwap V3: DYDX-WETH"
+    },
+    {
+        "Address": "0xe13f65df9a5371ac911dc811456908b85da821c4",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xe1de5ebd607f1da1c34d78b760b9c87901d0ba35",
+        "name": "Indexed: Staking"
+    },
+    {
+        "Address": "0xe1dfec1c1213baf331eb586468ebdf6b67f7c332",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe20f7d1f0ec39c4d5db01f53554f2ef54c71f613",
+        "name": "maYFI"
+    },
+    {
+        "Address": "0xe2519d8220589a84e2df1ee2a0ddfef55726d07e",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xe25b8fa6e21f67f8dcccf1222d23faf6f2e84a2f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe2c6a4a3a83399775ba104f16f94d2eae905d409",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe2f50189f8c1e3804aeb854c9ebffb92ba9d3270",
+        "name": "MNFT-1155"
+    },
+    {
+        "Address": "0xe324a879c3ada621f602d8333d4faa20cb6a84ac",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe3d2283e983d9ec973d1e773358981a7e9c62409",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe3dff97e14f3a55228ed2f614114bf6b27a7677b",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe3e42885e4dece10c529562c4e1d7b82da60afde",
+        "name": "GotchiPocket"
+    },
+    {
+        "Address": "0xe4bb1faedeef0faf121d52176cbc2c11a021052d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe4ebd836832f1a8a81641111a5b081a2f90b9430",
+        "name": "SushiSwap: DYDX-WETH"
+    },
+    {
+        "Address": "0xe4fabdb6b1658aa39146d8017c0266f8fb0f1f1e",
+        "name": "UNI-V2-1"
+    },
+    {
+        "Address": "0xe54891774eed9277236bac10d82788aee0aed313",
+        "name": "WEAR"
+    },
+    {
+        "Address": "0xe592427a0aece92de3edee1f18e0157c05861564",
+        "name": "Uniswap Router"
+    },
+    {
+        "Address": "0xe5ac03619dcd34222ce60f9789be355faeb9c0d3",
+        "name": "Uniswap V3: DAI-BPRO"
+    },
+    {
+        "Address": "0xe5d028350093a743a9769e6fd7f5546eeddaa320",
+        "name": "Uniswap V3: icETH-WETH"
+    },
+    {
+        "Address": "0xe623b221304c8e1ebf06b31df422f91ff303b3bd",
+        "name": "GA"
+    },
+    {
+        "Address": "0xe62ec2e799305e0d367b0cc3ee2cda135bf89816",
+        "name": "SLP: WBTC-WETH"
+    },
+    {
+        "Address": "0xe7519be0e2a4450815858343ca480d1939be7281",
+        "name": "QiS: QI-DAI"
+    },
+    {
+        "Address": "0xe7cbb8d73e5ca000816910f100d60b5fe33588f7",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe82c15d07ee5bc5274ccff897c91eb2ab1326d0d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe88632728ed377f556cb964e6f670f6017d497e4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe89fae1b4ada2c869f05a0c96c87022dadc7709a",
+        "name": "QiS: USDT-MAI"
+    },
+    {
+        "Address": "0xe8b07a320a0b7bf7eb6cf8a0e6c72b53a4139236",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xe908ce29a8a8ee72a2ca6902ec6489f1697a06cf",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xea651e5b72751f1d2e36255f5f59792c84cd856f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xea731b2d793d36a0dcb6bd7d341825546c98a988",
+        "name": "GotchiCare"
+    },
+    {
+        "Address": "0xead5b7d86c681c036c59cd00a0390541061c69f2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xebe0c8d842aa5a57d7bef8e524deaba676f91cd1",
+        "name": "mooMaiUSDC-miMATIC"
+    },
+    {
+        "Address": "0xec3aa5eaf6faf5cda3dab442fa5acd35d91be97a",
+        "name": "FTX: Deposit"
+    },
+    {
+        "Address": "0xec3cc6cf0252565b56fc7ac396017df5b9b78a31",
+        "name": "Loopring"
+    },
+    {
+        "Address": "0xec9c92df64f976f39c77576692114027fcc74232",
+        "name": "OKX:Deposit"
+    },
+    {
+        "Address": "0xed279fdd11ca84beef15af5d39bb4d4bee23f0ca",
+        "name": "LUSD3CRV-f"
+    },
+    {
+        "Address": "0xed3bbbe2e3eace311a94b059508bbdda9149ab23",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xed89ea70a367e41bb4ff1a0a185bf0c07dec69de",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xeda29227543b2bc0d8e4a5220ef0a34868033a2d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xee63d9ca6ecaa334ba0c3311b3dbd5de0132ba4c",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xee91345e3c0f668f7ed503b416ddb2d618e4e2c8",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xeea3311250fe4c3268f8e684f7c87a82ff183ec1",
+        "name": "ibETHv2"
+    },
+    {
+        "Address": "0xeef611894ceae652979c9d0dae1deb597790c6ee",
+        "name": "QiS: DAI-WMATIC"
+    },
+    {
+        "Address": "0xef61ce576b7b42d16727244f8da1734e9bc8127a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xef6fdf3e1861a5b0720c3623cc9043239e524628",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xefb3141ff2cc4bacc32274560f67ce44a02b47a2",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf047fbea321de61426437d8ebf5598d7b2673aa6",
+        "name": "AlphaToken"
+    },
+    {
+        "Address": "0xf04adbf75cdfc5ed26eea4bbbb991db002036bdd",
+        "name": "QiS: USDC-DAI"
+    },
+    {
+        "Address": "0xf086dedf6a89e7b16145b03a6cb0c0a9979f1433",
+        "name": "GMVT"
+    },
+    {
+        "Address": "0xf0d2d631a24db247f5eb0421fa3e6a169c72565f",
+        "name": "HEDGIES"
+    },
+    {
+        "Address": "0xf0dfc85855ad879d629c78f73e55f4040c28f02d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf0dfda48078f917cbfd8c5911797538a45954876",
+        "name": "The Squiggle Official"
+    },
+    {
+        "Address": "0xf1c7b9fbf46abee795883c50369ae7919b3cfccd",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf1ee78544a1118f2efb87f7eacd9f1e6e80e1ea5",
+        "name": "FLP: ICE-WETH"
+    },
+    {
+        "Address": "0xf2055643108305d6a56278f5f0191cd0286c7edc",
+        "name": "QiS: ADDY-WMATIC"
+    },
+    {
+        "Address": "0xf20ef17b889b437c151eb5ba15a47bfc62bff469",
+        "name": "UniSwap V2: LUSD-WETH"
+    },
+    {
+        "Address": "0xF231be40d73a9E73d859955344A4fF74f448dF34",
+        "name": "QiS: Zap In"
+    },
+    {
+        "Address": "0xf28164a485b0b2c90639e47b0f377b4a438a16b1",
+        "name": "dQUICK"
+    },
+    {
+        "Address": "0xf2b9ec5724dc97362a53907c0b4cc0aa72369e63",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf2c38389029df15bac7d81c9959b67787218202d",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf2df969f59b2c86e4b230da88918cdebcfc4ccbc",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf2e4209afa4c3c9eaa3fb8e12eed25d8f328171c",
+        "name": "Swap: Router"
+    },
+    {
+        "Address": "0xf3cffaeea177db444b68fb6f033d4a82f6d8c82d",
+        "name": "Alchemix"
+    },
+    {
+        "Address": "0xf42ed7184f3bdd07b0456952f67695683afd9044",
+        "name": "DYDX: Withdraw"
+    },
+    {
+        "Address": "0xf43f7d19a81087de6fbf1c5d33e4b946202d9a15",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf48b4c067b4816dbc0a65333e9e81ca6d8a17002",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf58d2bacbc68c587730ea0ce5131f6ae7c622a5d",
+        "name": "UNI-V2-7"
+    },
+    {
+        "Address": "0xf5fe364d18f4a5a53badce9a046ba74cfc97f6fb",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf6422b997c7f54d1c6a6e103bcb1499eea0a7046",
+        "name": "QiS: USDT-WETH"
+    },
+    {
+        "Address": "0xf667db9883f7bcad47c56e25816460811f59912f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf6a637525402643b0654a54bead2cb9a83c8b498",
+        "name": "QiS: WBTC-USDC"
+    },
+    {
+        "Address": "0xf6b87181bf250af082272e3f448ec3238746ce3d",
+        "name": "QiS: WBTC-WMATIC"
+    },
+    {
+        "Address": "0xf6fa9ea1f64f1bbfa8d71f7f43faf6d45520bfac",
+        "name": "FireBird: Router"
+    },
+    {
+        "Address": "0xf749659b5723ec782dc90176294a22fb30299736",
+        "name": "Loopring"
+    },
+    {
+        "Address": "0xf7615d2d078b1f633c707a66cabb9635c44f4cc4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf79a07cd3488bbafb86df1bad09a6168d935c017",
+        "name": "SLP-2"
+    },
+    {
+        "Address": "0xf7f83e73480afbc76754e52404a10c70ebb62eb4",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf8317bd5f48b6fe608a52b48c856d3367540b73b",
+        "name": "Alchemix: alETH"
+    },
+    {
+        "Address": "0xf96ddaa24d9f01d30443d5e95dbee0e79afc59d3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf99f4bd4ec1867c1d5f4e79e7c90483fd8d58f5e",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xf9d25eb4c75ed744596392cf89074afaa43614a8",
+        "name": "ERC-20 TOKEN*"
+    },
+    {
+        "Address": "0xfa52876a9355ad2095002f47f699e9b9d4fe034d",
+        "name": "UniSwap V3: icETH-WETH"
+    },
+    {
+        "Address": "0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41",
+        "name": "DEFI5"
+    },
+    {
+        "Address": "0xfa8a5082174c53eff6866a96e3253b9d5403cb12",
+        "name": "UniSwap V3: BANK-DAI"
+    },
+    {
+        "Address": "0xfa9a30350048b2bf66865ee20363067c66f67e58",
+        "name": "Curve Router"
+    },
+    {
+        "Address": "0xfaad1072e259b5ed342d3f16277477b46d379abc",
+        "name": "UNI-V2-8"
+    },
+    {
+        "Address": "0xfae2809935233d4bfe8a56c2355c4a2e7d1fff1a",
+        "name": "BPT"
+    },
+    {
+        "Address": "0xfae400bf04f88e47d899cfe7e7c16bf8c8ae919b",
+        "name": "PKT"
+    },
+    {
+        "Address": "0xfaf39e9d421db0edb4b2026b4ce7479bf373b79f",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xfaff15c6cdaca61a4f87d329689293e07c98f578",
+        "name": "ZPR_NFT"
+    },
+    {
+        "Address": "0xfbdd5c349d1686d7b15b27f47217c55fe93d2bfc",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d",
+        "name": "aDAI"
+    },
+    {
+        "Address": "0xfcad3475520fb54fc95305a6549a79170da8b7c0",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xfd05831e8164de31da2d8df7a77941cf7bebe1f3",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xfd12253e3b944a52958a535e27bb8747deb74165",
+        "name": "seller.dena.eth"
+    },
+    {
+        "Address": "0xfd1dbd4114550a867ca46049c346b6cd452ec919",
+        "name": ""
+    },
+    {
+        "Address": "0xfdc02dc768a587514b992b03fb713f74061764a2",
+        "name": "Gotchi: Staking"
+    },
+    {
+        "Address": "0xfe519ff03a09cb802dfb8e2011052969ded3d635",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xfec232cc6f0f3aeb2f81b2787a9bc9f6fc72ea5c",
+        "name": "QiS: FUD-GHST"
+    },
+    {
+        "Address": "0xfeeb64a9bb1c5beb57d6e17726c3c8faaece5c2a",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xffd3da76203642d4ee112893f33749a0df7ea7fd",
+        "name": "GotchiPlayer"
+    },
+    {
+        "Address": "0xffea5a2cfaf1aafbb87a1fe4eed5413da45c30a0",
+        "name": "GotchiPlayer"
+    }
+}
