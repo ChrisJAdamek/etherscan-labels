@@ -1,7 +1,6 @@
 [{
 	"Address": "0x0000000000000000000000000000000000000000",
 	"name": "mint/burn"
-
 }, {
 	"Address": "0x0000006daea1723962647b7e189d311d757fb793",
 	"name": "Wintermute"
@@ -35,7 +34,6 @@
 }, {
 	"Address": "0x02677c45fa858b9ffec24fc791bf72cdf4a8a8df",
 	"name": "RicheSwap"
-
 }, {
 	"Address": "0x02f28d4e7254749e9c44b0b82a28640780c33fe6",
 	"name": "\"DSproxy #187"
