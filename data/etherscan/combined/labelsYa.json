@@ -1,9 +1,7 @@
 [{
 	"Address": "0x0000000000000000000000000000000000000000",
 	"name": "mint/burn"
-}, {
-	"Address": "0x0000000000085d4780b73119b644ae5ecd22b376",
-	"name": "TUSD"
+
 }, {
 	"Address": "0x0000006daea1723962647b7e189d311d757fb793",
 	"name": "Wintermute"
@@ -13,12 +11,7 @@
 }, {
 	"Address": "0x006767ebde76c9224e9b4ee1ac9f28052a877818",
 	"name": "GotchiPocket"
-}, {
-	"Address": "0x00ff66ab8699aafa050ee5ef5041d1503aa0849a",
-	"name": "LUSDETH"
-}, {
-	"Address": "0x0100546f2cd4c9d97f798ffc9755e47865ff7ee6",
-	"name": "alETH"
+
 }, {
 	"Address": "0x01906449b7cfa954d672a43ff2c6f83d388c7cbc",
 	"name": "OKX: Deposit"
@@ -40,9 +33,7 @@
 }, {
 	"Address": "0x02677c45fa858b9ffec24fc791bf72cdf4a8a8df",
 	"name": "RicheSwap"
-}, {
-	"Address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
-	"name": "aDAI"
+
 }, {
 	"Address": "0x02f28d4e7254749e9c44b0b82a28640780c33fe6",
 	"name": "\"DSproxy #187"
@@ -241,9 +232,6 @@
 }, {
 	"Address": "0x17ac188e09a7890a1844e5e65471fe8b0ccfadf3",
 	"name": "CC10"
-}, {
-	"Address": "0x17ac4cc32696987cea1737343188716b1d827e7b",
-	"name": "DYDX: Deposit-Withdraw"
 }, {
 	"Address": "0x180f207f8747a966ec94277a69610162d7fa3ff1",
 	"name": "GotchiPlayer"
