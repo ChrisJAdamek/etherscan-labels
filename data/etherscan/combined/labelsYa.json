@@ -11,9 +11,6 @@
 	"Address": "0x006767ebde76c9224e9b4ee1ac9f28052a877818",
 	"name": "GotchiPocket"
 }, {
-	"Address": "0x19f870bd94a34b3adaa9caa439d333da18d6812a",
-	"name": "INSTALL."
-}, {
 	"Address": "0x01906449b7cfa954d672a43ff2c6f83d388c7cbc",
 	"name": "OKX: Deposit"
 }, {
@@ -252,7 +249,7 @@
 	"name": "LitCoin"
 }, {
 	"Address": "0x19f870bd94a34b3adaa9caa439d333da18d6812a",
-	"name": ""
+	"name": "INSTALL"
 }, {
 	"Address": "0x1a08b4d6497fa6d5970bd8f6c72bc5fbc8dd500e",
 	"name": "GotchiPlayer"
